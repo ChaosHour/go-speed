@@ -2,6 +2,14 @@
 
 ## Usage
 
+If you want to use go-speed, you need to install it.
+
+```GO
+go get -u github.com/mattn/go-speed
+```
+
+or use it in your project.
+
 ```GO
 
     package main
@@ -33,6 +41,8 @@ env GOOS=darwin GOARCH=amd64 go build .
 ```GO
 
 Output Example:
+go-speed
+
 https://www.google.com: 293.620142ms
 https://www.cox.com: 1.094964301s
 https://www.facebook.com: 279.980286ms
