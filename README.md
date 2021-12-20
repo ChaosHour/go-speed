@@ -5,7 +5,7 @@
 If you want to use go-speed, you need to install it.
 
 ```GO
-go get -u github.com/mattn/go-speed
+go get -u github.com/ChaosHour/go-speed
 ```
 
 or use it in your project.
@@ -16,7 +16,7 @@ or use it in your project.
 
     import (
         "fmt"
-        "github.com/go-speed/go-speed"
+        "github.com/ChaosHour/go-speed"
     )
 
     func main() {
